@@ -1,3 +1,7 @@
 body {
   font-family: Palatino;
 }
+
+#item-div {
+  background-color: gold;
+}
